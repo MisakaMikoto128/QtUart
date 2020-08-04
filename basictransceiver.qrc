@@ -1,0 +1,34 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/clean.png</file>
+        <file>images/win.png</file>
+        <file>images/close.png</file>
+        <file>images/empty_bin.png</file>
+        <file>images/exit.png</file>
+        <file>images/find.png</file>
+        <file>images/find_it.png</file>
+        <file>images/open.png</file>
+        <file>images/send.png</file>
+        <file>images/to_zero.png</file>
+        <file>images/about.png</file>
+        <file>images/read.png</file>
+        <file>images/select_file.png</file>
+        <file>images/write.png</file>
+        <file>images/paper-plane.png</file>
+        <file>images/1write.png</file>
+        <file>images/bluetooth.png</file>
+        <file>images/bscan.png</file>
+        <file>images/disconnect.png</file>
+        <file>images/Ebook Reader.png</file>
+        <file>images/edit-tools.png</file>
+        <file>images/openb.png</file>
+        <file>images/sharpicons_network-disconnect.png</file>
+        <file>images/close1.png</file>
+        <file>images/color.png</file>
+        <file>images/face.png</file>
+        <file>images/sport.png</file>
+        <file>images/USB.png</file>
+        <file>images/view.png</file>
+        <file>kikuo.jpg</file>
+    </qresource>
+</RCC>
